@@ -1,0 +1,6 @@
+{
+  "name": "Pegasus GT Control Tower",
+  "description": "A modern, real-time ground operations control tower and predictive analytics dashboard for tracking flight turnaround ground time SLA performance and predicting risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
